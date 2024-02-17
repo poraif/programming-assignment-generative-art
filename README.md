@@ -1,5 +1,5 @@
 # programming-assignment-generative-art
-My first programming assignment, completed February 2023. This is a generative art piece, written in Java for use on the Processing environment.w
+My first programming assignment, completed February 2023. This is a generative art piece, written in Java for using the Processing framework.
 
 ## Introduction
 This simple piece of generative art acts like an interactive graphic, with various components tracking the user's mouse and other actions occuring upon key press.
@@ -9,4 +9,5 @@ This simple piece of generative art acts like an interactive graphic, with vario
 2. Download and unzip the files in this repository.
 3. Open the files in Processing.
 4. Enjoy!
+
 
